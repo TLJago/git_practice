@@ -1,14 +1,14 @@
-#BS Wisdom Generator
-## * Impress idiots with your depth *
+## BS Wisdom Generator
+#### * Impress idiots with your depth *
 
-=###_Description_
+**Description**
 This code randomly generates a snippet of bullsh*t wisdom - the kind that you might find on an expensive herbal teabag.
 
-=###_Technology_
+**Technology**
 JavaScript
 
-=###_How to use_
+**How to use**
 Just run it! Personally, I find the best way to evaluate people's JS code is to use online sandbox, [JS Fiddle](https://jsfiddle.net)
 
-=###_Collaborators_
+**Collaborators**
 Nope.
