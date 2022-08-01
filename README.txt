@@ -1,4 +1,4 @@
-# _BS Wisdom Generator_
+#BS Wisdom Generator
 ## * Impress idiots with your depth *
 
 =###_Description_
